@@ -1,0 +1,3 @@
+LEAD_ID,EMAIL,NAME,SCHOOL__C,STATE,LEAD_PRIORITY__C,PHONE
+LEAD001,alice.johnson@email.com,Alice Johnson,Roosevelt Middle School,MA,Guardian,555-1001
+LEAD004,david.miller@email.com,David Miller,Adams Academy,MI,Guardian,555-1004

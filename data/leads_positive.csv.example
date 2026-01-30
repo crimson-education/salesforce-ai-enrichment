@@ -1,0 +1,6 @@
+OPP_ID,PRIMARY_GUARDIAN_EMAIL__C,NAME,SCHOOL_NAME__C,STATE_PROVINCE__C,PERSON_TYPE__C
+OPP001,john.smith@email.com,John Smith,Lincoln High School,CA,Guardian
+OPP002,jane.doe@email.com,Jane Doe,Washington Academy,NY,Guardian
+OPP003,robert.jones@email.com,Robert Jones,Jefferson High School,TX,Guardian
+OPP004,mary.wilson@email.com,Mary Wilson,Roosevelt Preparatory,FL,Guardian
+OPP005,michael.brown@email.com,Michael Brown,Madison Academy,IL,Guardian

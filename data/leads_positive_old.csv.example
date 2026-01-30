@@ -1,0 +1,3 @@
+OPP_ID,PRIMARY_GUARDIAN_EMAIL__C,NAME,SCHOOL_NAME__C,STATE_PROVINCE__C,PERSON_TYPE__C,PHONE
+OPP001,john.smith@email.com,John Smith,Lincoln High School,CA,Guardian,555-0101
+OPP003,robert.jones@email.com,Robert Jones,Jefferson High School,TX,Guardian,555-0103

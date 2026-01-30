@@ -1,0 +1,6 @@
+LEAD_ID,EMAIL,NAME,SCHOOL__C,STATE,LEAD_PRIORITY__C
+LEAD001,alice.johnson@email.com,Alice Johnson,Roosevelt Middle School,MA,Guardian
+LEAD002,bob.williams@email.com,Bob Williams,Kennedy Elementary,PA,Guardian
+LEAD003,carol.davis@email.com,Carol Davis,Monroe High School,OH,Guardian
+LEAD004,david.miller@email.com,David Miller,Adams Academy,MI,Guardian
+LEAD005,emma.garcia@email.com,Emma Garcia,Hamilton Preparatory,WI,Guardian
